@@ -1,10 +1,10 @@
-package com.dondi.prueba.apigateway;
+package com.control.apigateway.master;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApigatewayApplicationTests {
+class MasterApplicationTests {
 
 	@Test
 	void contextLoads() {
